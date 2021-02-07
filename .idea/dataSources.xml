@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="firstcashiertestproject@db-mysql-villumsen-dev-do-user-8690654-0.b.db.ondigitalocean.com" uuid="a0d2daa0-31f7-4b24-9a05-3e581afd4ac6">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://db-mysql-villumsen-dev-do-user-8690654-0.b.db.ondigitalocean.com:25060/firstcashiertestproject</jdbc-url>
+    </data-source>
+  </component>
+</project>
